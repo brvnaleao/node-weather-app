@@ -60,7 +60,10 @@ html{
    margin-bottom: 0;
     background-color: rgb(99, 192, 192);
 }
-
+.about-content{
+    text-align: center;
+    font-size: 18px;
+}
 .footer-content{
     margin: 0 auto;
     display: inline-block;
