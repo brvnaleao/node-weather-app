@@ -1,7 +1,7 @@
 
 
 # Node-Weather-App
-![Weather-App-Image](https://github.com/brvnaleao/node-weather-app/blob/master/public/images/weather_img.jpeg)
+
 
 > This is a case study of a Weather App
 
