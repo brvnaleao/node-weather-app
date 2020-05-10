@@ -1,8 +1,7 @@
 
 
-<a href="http://bruna-leao-weather-application.herokuapp.com/"><img sytle="width:200px" src="https://image.freepik.com/vetores-gratis/roupas-de-inverno-roupas-e-acessorios_24877-63493.jpg" title="Weather App" alt="Illustration of a couple in a cold climate"></a>
-
 # Node-Weather-App
+![Weather-App-Image](https://github.com/brvnaleao/node-weather-app/blob/master/public/images/weather_img.jpeg)
 
 > This is a case study of a Weather App
 
