@@ -1,6 +1,6 @@
 
-<!-- [![WeatherCouplePic](https://image.freepik.com/vetores-gratis/roupas-de-inverno-roupas-e-acessorios_24877-63493.jpg)](https://br.freepik.com) -->
-<a href="http://bruna-leao-weather-application.herokuapp.com/"><img src="https://image.freepik.com/vetores-gratis/roupas-de-inverno-roupas-e-acessorios_24877-63493.jpg" title="Weather App" alt="Illustration of a couple in a cold climate"></a>
+
+<a href="http://bruna-leao-weather-application.herokuapp.com/"><img sytle="width:200px" src="https://image.freepik.com/vetores-gratis/roupas-de-inverno-roupas-e-acessorios_24877-63493.jpg" title="Weather App" alt="Illustration of a couple in a cold climate"></a>
 
 # Node-Weather-App
 
