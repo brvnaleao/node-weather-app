@@ -5,6 +5,7 @@ const geocode = require('./utils/geocoding')
 const getTemp = require('./utils/getTemp')
 const app = express()
 
+let port =  process.env.PORT || 3000
 app.use(express.static(path.join(__dirname, '../public')))
 app.set('view engine', 'hbs')
 app.set('views', path.join(__dirname, '../templates/views'))
@@ -66,6 +67,6 @@ app.get('*', (req, res)=>{
         title: 'Error',
         errormsg: '404 ERROR: This page does not exist'})
 })
-app.listen(3000, ()=>{
-    console.log('foi')
+app.listen(port, ()=>{
+    console.log('running on port ' + port)
 })
