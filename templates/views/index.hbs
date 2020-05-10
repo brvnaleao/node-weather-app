@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+  
+    <link href="/css/styles.css" rel="stylesheet">
+</head>
+<body>
+    {{>header}}
+    <div class="main-content">
+        <h1>{{title}}</h1>
+        <div>
+
+        <form>
+            <label>Insert the name of the city to get the weather:</label>
+            <div>
+                <input type="text" id="search">
+            </div>
+            <div>
+                <button>Fetch</button>
+            </div>
+        </form>
+        </div>
+        <p class="title-response" id="title-response"></p>
+        <div class="response">
+            <span  id="response"></span>
+        </div>
+        
+
+    </div>
+    {{>footer}}
+      <script src="scripts/app.js"></script>
+</body>
+</html>
